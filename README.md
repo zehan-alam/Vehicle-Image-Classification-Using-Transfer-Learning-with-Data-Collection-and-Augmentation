@@ -12,10 +12,10 @@ The data collection phase involves downloading images from the web using the Duc
 ### Steps Taken
 
 1. **Define Search Terms**:
-    - Search terms were specified for each vehicle category to ensure a diverse set of images. For example:
-        - Cars: "car photos", "sports car", "luxury car", "classic car", "car exterior"
-        - Motorcycles: "motorcycle photos", "sports motorcycle", "cruiser motorcycle", "vintage motorcycle", "motorbike"
-        - Trucks: "truck photos", "pickup truck", "monster truck", "delivery truck", "heavy truck"
+    - Search terms were specified for each vehicle category and lighting condition to ensure a diverse set of images. For example:
+        - Vehicles: "Car", "Truck", "Motorcycle"
+        - Lighting Conditions: "photo", "daytime photo", "afternoon photo", "sun photo", "sunny day photo", "bright sun photo", "sunlight photo", "noon photo", "evening photo", "dusk photo", "dawn photo", "overcast photo", "cloudy photo"
+
 
 2. **Search and Download Images**:
     - A function was used to search for images and return URLs.
